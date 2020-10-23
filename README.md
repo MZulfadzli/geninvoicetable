@@ -1,6 +1,8 @@
 # geninvoicetable
 
 This project is to create the table of invoice by using python code.
-The library that will be used is reportlab
+The library that will be used is reportlab.
+So, jus pip it.
 
-so, just pip install reportlab
+
+pip install reportlab
